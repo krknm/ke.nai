@@ -1,0 +1,5 @@
+return {
+Token = "5818872340:AAElGxDbTbjBRRCcB41LI_s9G6f0YHN5iLs",
+UserBot = "EL_ARGNTYNYbot",
+UserSudo = "EL_ARGNTYNY1",
+SudoId = 5580474193}
